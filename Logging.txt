@@ -1,0 +1,100 @@
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Avnish",
+    "salary": 50000,
+    "age": 28
+}
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json;charset=utf-8
+Date: Tue, 09 Jun 2020 06:34:36 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Pragma: no-cache
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Set-Cookie: PHPSESSID=3ef40cb148a2acb0327b5cc367f10f26; path=/
+Set-Cookie: ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 07:04:35 UTC
+Set-Cookie: ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 08:34:35 UTC
+Set-Cookie: ezoab_133674=mod22; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 08:34:35 UTC
+Set-Cookie: active_template::133674=pub_site.1591684475; Path=/; Domain=restapiexample.com; Expires=Thu, 11 Jun 2020 06:34:35 UTC
+Vary: Accept-Encoding
+Vary: Accept-Encoding,X-APP-JSON
+X-Ezoic-Cdn: Miss
+X-Middleton-Response: 200
+X-Sol: pub_site
+Content-Length: 77
+
+{
+    "status": "success",
+    "data": {
+        "name": "Avnish",
+        "salary": 50000,
+        "age": 28,
+        "id": 43
+    }
+}
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "AKASH",
+    "salary": 60000,
+    "age": 30
+}
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Type: application/json;charset=utf-8
+Date: Tue, 09 Jun 2020 06:34:38 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Pragma: no-cache
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Set-Cookie: PHPSESSID=e51017e0bffe59f077eab6804dcfe9c2; path=/
+Set-Cookie: ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 07:04:37 UTC
+Set-Cookie: ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 08:34:37 UTC
+Set-Cookie: ezoab_133674=mod18; Path=/; Domain=restapiexample.com; Expires=Tue, 09 Jun 2020 08:34:37 UTC
+Set-Cookie: active_template::133674=pub_site.1591684477; Path=/; Domain=restapiexample.com; Expires=Thu, 11 Jun 2020 06:34:37 UTC
+Vary: Accept-Encoding
+Vary: Accept-Encoding,X-APP-JSON
+X-Ezoic-Cdn: Miss
+X-Middleton-Response: 200
+X-Sol: pub_site
+Content-Length: 76
+
+{
+    "status": "success",
+    "data": {
+        "name": "AKASH",
+        "salary": 60000,
+        "age": 30,
+        "id": 71
+    }
+}
